@@ -1,0 +1,183 @@
+/*Banner style */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.banner{
+    height: 700px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(/images/donation5.jpg);
+}
+.banner-heading{
+    font-size: 65px;
+    color: white;
+    font-weight: 700;
+    line-height: 78px;
+}
+.banner-description{
+    font-size: 18px;
+    color: white;
+}
+.btn-primary{
+    font-size: 20px;
+    font-weight: 600;
+    background-color: #FF5959;
+    color: white;
+    border: none;
+    padding: 15px 10px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.banner-box{
+    text-align: center;
+    padding: 0 550px;
+}
+/* This is for Secound Section */
+.secound-section{
+   padding: 100px 375px;
+
+}
+.title-common{
+    text-align: center;
+    font-size: 45px;
+    font-weight: 700; 
+}
+.secound-description{
+    font-size: 18px;
+    font-weight: 400px;
+    text-align: center;
+    padding: 20px 0 50px 0;
+
+}
+.five-box{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding-bottom: 50px;
+}
+.common-div{
+
+}
+.div-title{
+    padding: 43px 25px;
+    background-color:#fafafa ;
+    font-size: 30px;
+    font-weight: 700;
+}
+.secound-div{
+    background-color:#FFEEEE;
+    color:  #FF5959;
+    border: 2px solid;
+    border-radius: 5px;
+}
+.other-title{
+    color: #B3B3B3;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 400;
+    padding-bottom: 10px;
+
+}
+.button-hr-div{
+  text-align: center;
+  padding: 0 200px;
+}
+/*  style for 3rd section */
+
+.three-box{
+    display: flex;
+    justify-content: center;
+    padding: 0px 155px;
+    gap: 30px;
+    margin-bottom: 50px;
+}
+.three-common-box{
+    padding: 55px 22px;
+    border-radius: 5px;
+}
+.one{
+    background-color: #4fa3ac3b;
+}
+.two{
+    background-color: #ff595957;
+}
+.three{
+    background-color: #fff4d6;
+}
+.three-common-title{
+    font-size:24px ;
+    font-weight: 600px;
+    padding: 30px 0px;
+}
+.three-common-description{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #707070;
+    padding-right: 50px;
+}
+/* fourth section */
+
+.under-contribute{
+    display: flex;
+    gap: 80px;
+    justify-content:center ;
+    
+
+}
+.common-title1{
+    font-size: 45px;
+    padding-bottom: 20px;
+
+}
+.common-des1{
+    font-size: 18px;
+    color: #707070;
+    padding-bottom: 50px;
+
+}
+.contribute-container{
+    margin: 200px 200px;
+}
+.donate-button{
+    text-decoration: none;
+    background-color: #FF5959;
+    color: white;
+    padding: 20px 15px;
+    border-radius: 5px;
+}
+.left-div{
+    vertical-align: middle;
+    padding-top: 70px;
+}
+.email-section{
+    padding: 100px 0px 0px 0px;
+
+}
+.email-section-two{
+    text-align: center;
+    padding:  76px 189px ;
+    background-color: #FFF4D6;
+    margin: 0px 500px;
+    margin-bottom: 50px;
+}
+.email-section-two input[type="email"]{
+    padding: 20px 40px;
+    background-color: #D9D9D9;
+    border: none;
+}
+.email-section-two input[type="button"]{
+    padding: 20px 40px;
+    background-color: #FF5959;
+    border: none;
+    color: white;
+    margin-left: -5px;
+
+}
+
